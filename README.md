@@ -1,8 +1,8 @@
 
 <h1 align="center">¡Hola 👋! Soy Pablo 👨‍💻</h1>
-<h3 align="center">La Plata, Argentina🌎</h3><br/> 
+<h3 align="center">La Plata, Argentina 📍</h3><br/> 
 <h2>Sobre mi</h2>
-<p>
+
 Convencido del valor del aprendizaje, siempre me he interesado en formarme y adquirir constantemente nuevos conocimientos: soy Soy Fullstack Developer, Ingeniero Civil y Técnico en Informática; además de contar con estudios en Inglés, Francés y Alemán.
 
 Durante 10 años me desempeñe como Ingeniero Civil en diferentes empresas, poniendo práctica todo lo aprendido, y desarrollando nuevas habilidades; siempre con el compromiso y el profesionalismo como estandarte.
@@ -10,7 +10,7 @@ Durante 10 años me desempeñe como Ingeniero Civil en diferentes empresas, poni
 Recientemente decidí sumergirme en el mundo del Desarrollo y la Programación, el cual me resultó apasionante y repleto de oportunidades; por lo cual me inscribí en el bootcamp de Fullstack Developer de Henry, donde adquirí conocimientos en tecnologías de desarrollo web como HTML, CSS, Javascript, React, Redux, Express, SQL y Sequelize, entre otras.
 Actualmente, continúo instruyéndome con nuevas tecnologías que permitan desarrollar aún más mis habilidades e incrementar mis conocimientos.
 
-Soy una persona proactiva, con pensamiento analítico, orientado a la obtención de resultados y versátil; capaz de desempeñarme con excelencia en diferentes entornos de trabajo. .
+Soy una persona proactiva, con pensamiento analítico, orientado a la obtención de resultados y versátil; capaz de desempeñarme con excelencia en diferentes entornos de trabajo.
 <br/>
 <br/>
 <h4>Me gusta</h4>
@@ -53,9 +53,13 @@ Soy una persona proactiva, con pensamiento analítico, orientado a la obtención
 <h3>📫 Contáctame: </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/pablosalituri/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg" height="5%" width="5%" /></a>
-  <a href="mailto:pablo_salituri@live.com.ar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt ="lemorles" altura="5%" ancho="5%" /></a>
-  </p>
+<a href="https://www.linkedin.com/in/pablosalituri/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg" height="5%" width="5%" />
+</a>
+  
+<a href="mailto:pablo_salituri@live.com.ar" target="blank">
+<img align="center" src="https://www.logo.wine/a/logo/Outlook.com/Outlook.com-Logo.wine.svg" alt="Outlook Logo Vector Download - Logo De Hotmail Vector @clipartmax.com" height="8%" width="8%">
+</a>
 </p>
 
 
