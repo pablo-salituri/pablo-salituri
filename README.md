@@ -13,14 +13,6 @@ Actualmente, continúo instruyéndome con nuevas tecnologías que permitan desar
 Soy una persona proactiva, con pensamiento analítico, orientado a la obtención de resultados y versátil; capaz de desempeñarme con excelencia en diferentes entornos de trabajo.
 <br/>
 <br/>
-<h4>Me gusta</h4>
-<p>
-  - Viajar   🌎 <br/>
-  - Deportes ⚽ 🎾 <br/>
-  - Música   🎵
-</p>
-<br/>
-
 <div  align="left">
   <h3>🛠 Habilidades:</h3> 
   <br/>
