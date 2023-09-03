@@ -3,7 +3,7 @@
 <h3 align="center">La Plata, Argentina 📍</h3><br/> 
 <h2>Sobre mi</h2>
 
-Convencido del valor del aprendizaje, siempre me he interesado en formarme y adquirir constantemente nuevos conocimientos: soy Soy Fullstack Developer, Ingeniero Civil y Técnico en Informática; además de contar con estudios en Inglés, Francés y Alemán.
+Convencido del valor del aprendizaje, siempre me he interesado en formarme y adquirir constantemente nuevos conocimientos: soy Fullstack Developer, Ingeniero Civil y Técnico en Informática; además de contar con estudios en Inglés, Francés y Alemán.
 
 Durante 10 años me desempeñe como Ingeniero Civil en diferentes empresas, poniendo práctica todo lo aprendido, y desarrollando nuevas habilidades; siempre con el compromiso y el profesionalismo como estandarte.
 
