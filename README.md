@@ -1,3 +1,7 @@
+<section align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+</section>
+
 
 <h1 align="center">¡Hola 👋! Soy Pablo 👨‍💻</h1>
 <h3 align="center">La Plata, Argentina 📍</h3><br/> 
