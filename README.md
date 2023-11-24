@@ -46,7 +46,7 @@ Soy una persona proactiva, con pensamiento analítico, orientado a la obtención
  </div>
  
 <br/>
-<h3>📫 Contáctame: </h3>
+<h3> <img src="https://cdn.pixabay.com/animation/2023/10/03/13/08/13-08-01-15_512.gif" width="6%"> Contáctame:</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/pablosalituri/" target="_blank">
