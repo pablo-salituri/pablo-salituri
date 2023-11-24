@@ -1,5 +1,5 @@
 <section align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF" width="50%">
 </section>
 
 
